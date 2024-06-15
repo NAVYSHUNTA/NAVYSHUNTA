@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monaspace&size=40&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Shunta+Nakamura!;" />
+</h1>
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVYSHUNTA&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NAVYSHUNTA&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
