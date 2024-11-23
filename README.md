@@ -4,6 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Monaspace&size=40&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Shunta+Nakamura!;" />
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAVYSHUNTA/NAVYSHUNTA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAVYSHUNTA/NAVYSHUNTA/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NAVYSHUNTA/NAVYSHUNTA/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVYSHUNTA&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NAVYSHUNTA&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
