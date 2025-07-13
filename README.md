@@ -18,6 +18,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NAVYSHUNTA&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3 align="left">AtCoder:</h3>
+
+[![Rating](https://badgen.org/img/atcoder/shunta/rating/algorithm?style=flat)](https://atcoder.jp/users/shunta?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/shunta/rating/heuristic?style=flat)](https://atcoder.jp/users/shunta?contestType=heuristic)
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,docker,elixir,figma,firebase,haskell,html,java,js,latex,nodejs,notion,py,rust,scala,sqlite,ts,vim,vscode,)](https://skillicons.dev)
