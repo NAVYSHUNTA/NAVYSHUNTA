@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,docker,elixir,figma,firebase,haskell,html,java,js,latex,nodejs,notion,py,rust,scala,sqlite,ts,vim,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,docker,elixir,figma,firebase,github,haskell,html,java,js,latex,nodejs,notion,py,rails,ruby,rust,scala,sqlite,ts,vim,vscode,)](https://skillicons.dev)
 
 <!--
 **NAVYSHUNTA/NAVYSHUNTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
