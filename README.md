@@ -10,14 +10,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NAVYSHUNTA/NAVYSHUNTA/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVYSHUNTA&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NAVYSHUNTA&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NAVYSHUNTA&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## AtCoder:
 [![Rating](https://badgen.org/img/atcoder/shunta/rating/algorithm?style=flat)](https://atcoder.jp/users/shunta?contestType=algo)
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/shunta/rating/heuristic?style=flat)](https://atcoder.jp/users/shunta?contestType=heuristic)
